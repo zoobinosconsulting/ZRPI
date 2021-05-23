@@ -1,0 +1,2 @@
+bin_PROGRAMS=helloautotools
+helloautotools_SOURCES=helloautotools.c
